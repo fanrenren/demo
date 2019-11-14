@@ -10,6 +10,7 @@
     <modules>
         <module>demo-pool</module>
         <module>demo-common</module>
+        <module>demo-keep-alive</module>
     </modules>
     <packaging>pom</packaging>
 
