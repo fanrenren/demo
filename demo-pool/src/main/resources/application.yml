@@ -1,0 +1,5 @@
+demo:
+  pool:
+    maxIdle:10
+    maxTotal：20
+
